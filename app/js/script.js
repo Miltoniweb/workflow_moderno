@@ -1,0 +1,1 @@
+"use strict";!function(){var n;n="Milton.web!!!",console.info(n,", un saludo desde milton web")}();
